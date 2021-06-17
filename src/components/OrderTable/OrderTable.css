@@ -1,0 +1,24 @@
+.table {
+  width: 50%;
+  background-color: #1B262D;
+  color: #FFF;
+  font-family: Roboto,sans-serif;
+  font-weight: 400;
+}
+
+.table__row {
+  margin: 0 5px;
+  height: 17px;
+}
+
+.table__cell {
+  text-align: right;
+}
+
+.table__cell--center {
+  text-align: center;
+}
+
+.table__cell--header {
+  color: #899094;
+}
